@@ -15,7 +15,7 @@ class LoadingBar {
 
 		const barWrapper = document.createElement("div");
 		barWrapper.style.position = 'relative';
-		barWrapper.style.width = '50%';
+		barWrapper.style.width = '70%';
 		barWrapper.style.minWidth = '250px';
 
 		const barBase = document.createElement("div");
