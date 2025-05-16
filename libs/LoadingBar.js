@@ -19,7 +19,7 @@ class LoadingBar {
 		barWrapper.style.minWidth = '250px';
 
 		const barBase = document.createElement("div");
-		barBase.style.background = '#aaa';
+		barBase.style.background = '#33f5f2';
 		barBase.style.borderRadius = '10px';
 		barBase.style.height = '15px';
 		barBase.style.width = '100%';
